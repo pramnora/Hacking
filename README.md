@@ -5,7 +5,8 @@ Hacking, links/resources/-etc.
 
 Personally speaking, I've never been much of a serious *hacker* myself;  
 that is apart from experimenting with learning to use multiple different programming languages;  
-so, for example, using just one single programming language, one finds there are 10+ different ways to write 'Hello, world!'.  
+so, for example, using just one single programming language,   
+one finds there are 10+ different ways to write 'Hello, world!'.  
 
 I also know that as most programming languages can output text files;  
 and, programming languages themselves are, in fact, mostly all text based, including:    
