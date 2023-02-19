@@ -80,9 +80,10 @@ It could mean...
   or, stuck it with paper and sellotape onto the computer...    
   just so that your yourself would not forget...?!  
 
-- If anyone knows how to *programatically* create/delete files...;  
+- If anyone knows how to, basically, use an OS/Operating System.../     
+  or else, can  *programatically* create/delete files...;  
   then, they also can be regarded as 'hackers'...;  
-  because, they can either introduce *new* files/or, *delete* old files  
+  because, they can either introduce *new* files/or, *delete* old files    
   from off the computer system.    
 
 - Sometimes, there are either 'hardware/software' being attached to the computing machine...;  
