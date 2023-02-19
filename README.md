@@ -99,8 +99,10 @@ So, I will usually find a way to work around it...;
 by, deliberately, choosing to go run those programs which are my *favourite*, anyway;        
 first, you need to be familiar with what is the underlying OS/Operating System...;    
 for instance, there is not just Windows GUI-Graphical User Interface/  
-but, there is also the older: MS DOS CLI/Microsoft Disk Operatng System Command Line Interface...;     
+but, there is also the older:  
+MS DOS CLI/Microsoft Disk Operatng System Command Line Interface...;     
 which also allow users to be able to run/execute programs.    
+
 Thus, one has to know exactly where certain programs are located/    
 or else, the many different methods by which such programs may be called upon to run;  
 there is, usually, far more than only 'one' way;  
