@@ -7,6 +7,13 @@ Personally speaking, I've never been much of a *hacker* myself;
 that is apart from experimenting with learning to use multiple different programming languages;  
 so, for example, using just one single programming language, one finds there are 10+ different ways to write 'Hello, world!'.  
 
+I also know that as most programming languages can output text files;  
+and, programming languages themselves are text based: [.c]/[.cpp]/[.bat]/-etc.;  
+therefore, quite naturally, it follows that you can use one programming language...
+to output code using a next programming language...; 
+so, for example, a QBASIC program [.bas] can also be used to write/output [.html] files    
+that is, if the programmer themselves chooses to do such work.     
+
 Apart from that, I have had an interest in doing purely *amateur* cryptography: eg. experimenting with...   
 
 - writing code going: forwards/backwards   
