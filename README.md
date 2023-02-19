@@ -21,25 +21,28 @@ I have also played around with various OS/Operating Systems, including:
   and, learning to use Linux is FREE/unless you wish to pay to have Linux in a hosted environment, instead)
 
 I'm also *aware*, at least, of such things as:  
-- Internet protocols/RFC's
+- Internet protocols: /RFC's/HTTP/HTTPS/FTP/FTPS  
 - MS DOS Tools: PING/TraceRoute/IP Config    
-- The Open OSI model  
-- Hardware (CISCO)  
+- The 7 layered Open OSI/Open Systems Interconnect model  
+- Hardware (CISCO)
+- white hat/black hat hackers 
+- Postman/Kali Linux (heard of...never actualy used it)   
+- TOR web browser  
+- Bit coins/and, Cryptochain technologies    
 - etc.
 
-So, as somebody who is very deeply interested in computing systems in general;    
+So, as somebody who is very deeply interested in learning more about computing systems in general;      
 I have heard of the *hacking* field; and, will occassionally go and either:  
 
 - Watch videos
-- Read articles
+- Read articles    
 ...about it.
 
 -(**NOTE**: I never said I was a *master* of anything mentioned above; 
 but, just that I had a passing interest in learning more about it;  
-by which I mean to imply that I am no **expert** hacker; but, instead, just a total *amateur*.)-  
+by which I mean to imply that I am no **expert** hacker; but, instead, just a complete and total  *amateur*.)-  
 
-Here, I intend to include some internet resources I found whilst out surfing the net.  
-
+Anyway, here on this page, I intend to include some *hacking* resources I found whilst out surfing around the net.  
 
 ## Links
 
