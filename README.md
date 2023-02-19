@@ -60,19 +60,40 @@ I will also list a few of my own *hacking* experiences, as well.
 
 Whenever I go to visit my local library to use their publically available computers;  
 sometimes, when I sign in using both my *username/password* combination;  
-I find that certain parts of the Windows OS/Operating System machine has been **locked** down;    
-for example, the user has no easy access to using accessory programs such as: Notepad/MS Paint;  
-not if the [Start] menu has been disabled...; and, only the 'web browser' part is enabled, alone;   
-but, these are programs which I tend to use regularly every single day inside of my own home...???     
+I find that certain parts of the Windows OS/Operating System machine     
+has already been **locked** down by the system administrators;    
+for example, the user has no easy access to using accessory programs such as: Notepad/MS Paint;    
+not if the [Start] menu has been disabled...; and, only the 'web browser' part is enabled, alone;     
+but, these are programs which I tend to use regularly every single day inside of my own home...???       
 
 So, I will usually find a way to work around it...;  
-by deliberately choose to go run those programs, anyway;    
-first, you need to be familiar with what is the underlying OS...;  
+by, deliberately, choosing to go run those programs which are my *favourite*, anyway;        
+first, you need to be familiar with what is the underlying OS/Operating System...;    
 for instance, there is not just Windows GUI-Graphical User Interface/  
-but, there is also MS DOS CLI/Command Line Interface...;  
-which also allows one to run/execute programs.  
+but, there is also the older: MS DOS CLI/Microsoft Disk Operatng System Command Line Interface...;     
+which also allow users to be able to run/execute programs.    
 Thus, one has to know exactly where certain programs are located/    
-or else, the many different methods by which such programs can be called up to run.       
+or else, the many different methods by which such programs may be called upon to run;  
+there is, usually, far more than only 'one' way;  
+for example, I can think of 5 -or, even, 10- different ways   
+of launching Notepad word processor application using Windows.         
+
+## Personal hacking experience 2
+
+It is possible to get into a publically available computer system...;  
+such was when on a computer based training course;  
+and, create a Desktop -(or, otherwise, 'hidden' folder)-  which contains your *own* files;    
+this is done so that nobody else -without having truly sufficient knowledge-   
+will be allowed to either access/or, change what are your *private* files.  
+
+## Personal hacking experience 3
+
+I recall using Linux, remotely...on a hosted machine;  
+where I was giving somebody lessons...on how to use Linux commands;    
+because I myself was privellged as being 'root';  
+therefore, I had full access to all of the 'history' commands they had typed in;    
+as well as, access to all of their files/folders.    
+
 
 ## Links
 
