@@ -48,13 +48,54 @@ I have heard of the *hacking* field; and, will occassionally go and either:
 ...about it.
 
 -(**NOTE**: I never said I was a *master* of anything mentioned up above;   
-but, just that I had a 'passing interest' in learning more about it;  
+but, just that I had a 'passing interest' in learning more about it...;  
 by which I mean to imply that I am no **expert** hacker;   
 but, instead, just a complete and total  *amateur*.)-  
 
 Anyway, here on this page, I intend to include some *hacking* resources I found whilst out surfing around the net.
 
 I will also list a few of my own *hacking* experiences, as well.  
+
+## Hacking, how exactly to define it...???
+
+*Hacking*, though the term is real easy to say/and, also, hear about...; is not always so easy to **define**, specifically.  
+
+It could mean...
+
+- Somebody lost their iPad...; and, a theif found it...; that iPad might be protected with a 4 x numbers password;  
+  well, the theif has enough time available on their hands to try cracking the password by typing in every single  
+  password combination...until when they do, eventually, get in; and, this is quite commonly referrred to as being called:  
+  the 'brute force' attack.    
+
+- Another possiblity, -which I have myself personally come across- is one signs up to do a computing course;    
+  and, at the beginning of class, the teacher calls out to each individual pupil...    
+  what is meant to be their own 'unique' password; which anybody within 'earshot' is able to either recall/write down;    
+  thus, giving them access to another person's 'private' computing space.
+
+- It could also be as simple as somebody, carefully, watching from afar/or, by peering over your shoulder...  
+  the PIN your are typing in at the bank/or, post office ATM machine.
+
+- Sometimes, it involves somebody discovering your username/password combination...;     
+  because, you wrote it down where your computer is.../    
+  or, stuck it with paper and sellotape onto the computer...    
+  just so that your yourself would not forget...?!  
+
+- Sometimes, there are either 'hardware/software' being attached to the computing machine...;  
+  such things as 'key loggers'/-etc.; which will record everything the user types in;  
+  without that user being *aware*.    
+
+- And, there are some people who like to create/or, distribute viruses...;    
+  or else, who might be distributing the virus without even being *aware* that they are doing it themselves;    
+  such as when they open an email/or, visit a web site page/or, -etc.  
+  
+- There is, too, people who get paid to, deliberately, hack into computer systems...;  
+  in order to prove whether or not that computing system is, truly, secure or not....?!
+
+-(**NOTE**: I think, it's fair to say...no computer system is entirely 100% secure;  
+no matter what the protection is.)- 
+
+...thus, it's fair to say that *hacking* is a term which can be related to many different possible activities;  
+whether legal/illegal...serious/or, fun.
 
 ## Personal hacking experience 1/Computing history lists
 
@@ -125,7 +166,9 @@ because I myself was privellged as being 'root';
 therefore, I had full access to all of the 'history' commands they had typed in;    
 as well as, access to all of their files/folders.    
 
-**NOTE**: There was no serious information found...just merely practice *test* files.  
+**NOTE**: There was no serious information found...just merely practice *test* files;  
+also, through being the teacher myself...I did make them fully 'aware' of what was going on...;  
+that from on my side I could see everything they did.   
 
 ## Links
 
