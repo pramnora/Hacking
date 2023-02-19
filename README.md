@@ -56,7 +56,36 @@ Anyway, here on this page, I intend to include some *hacking* resources I found 
 
 I will also list a few of my own *hacking* experiences, as well.  
 
-## Personal hacking experience 1
+## Personal hacking experience 1/Computing history lists
+
+Whenever one gets onto a computer...; and, does such things as create/save files...;  
+or, even, browse the net using a *web browser*...;  
+many of your actions are being recorded in either one way or another.  
+
+For example, there is...  
+- the Run command 'history' list    
+- the Web browser 'history' list  
+- the Downloads folder 'history' list
+- etc.  
+
+This all means that anybody who has access to your own computer/    
+or, public work computer.../-etc.;   
+and, who also knows where to locate these 'history' items are...;   
+they can also trace through exactly what you were doing, previously, on the computer as well.   
+
+## Personal hacking experience 2/Windows Powershell history list
+
+It was only just recently that I was playing around with using Windows Powershell platform;   
+that I happened to discover it's possible to choose to record all of the Powershell session commands 'history'.    
+
+I didn't know that such a thing was possible before;     
+so, whenever one learns certain specific hacking techniques;         
+then, it also teaches you to be able to defend against it;    
+namely, close down the previous Powershell window;  
+and, start a brand 'new' Powershell window session, instead.    
+
+
+## Personal hacking experience 3/Unlocking public computer files
 
 Whenever I go to visit my local library to use their publically available computers;  
 sometimes, when I sign in using both my *username/password* combination;  
@@ -78,7 +107,7 @@ there is, usually, far more than only 'one' way;
 for example, I can think of 5 -or, even, 10- different ways   
 of launching Notepad word processor application using Windows.         
 
-## Personal hacking experience 2
+## Personal hacking experience 4/Work -or, training course- computer...hidden files
 
 It is possible to get into a publically available computer system...;  
 such was when on a computer based training course;  
@@ -86,7 +115,7 @@ and, create a Desktop -(or, otherwise, 'hidden' folder)-  which contains your *o
 this is done so that nobody else -without having truly sufficient knowledge-   
 will be allowed to either access/or, change what are your *private* files.  
 
-## Personal hacking experience 3
+## Personal hacking experience 5: Remote computer...Linux 'root' privilege  
 
 I recall using Linux, remotely...on a hosted machine;  
 where I was giving somebody lessons...on how to use Linux commands;    
@@ -94,6 +123,7 @@ because I myself was privellged as being 'root';
 therefore, I had full access to all of the 'history' commands they had typed in;    
 as well as, access to all of their files/folders.    
 
+**NOTE**: There was no serious information found...just merely practice *test* files.  
 
 ## Links
 
